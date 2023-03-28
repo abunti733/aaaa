@@ -1,0 +1,31 @@
+.container{
+	background:#2A2A68;
+	text-align:center;
+	
+	
+}
+.container h2{
+	text-align:center;
+	font-family:sans-serif;
+	padding:20px;
+	background:#0f1748;
+	color:white;
+}
+
+.container .input-group input{
+	width:300px;
+	color:black;
+	margin:8px auto 0px auto;
+	padding:8px 10px;
+	
+}
+.container .input-group .checkbox .btn{
+	text-align:center;
+	display:block;
+}
+.container .input-group .checkbox .btn button{
+	margin-top:20px;
+	padding:10px 8px;
+	background:gray;
+	color:white;
+}
